@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "NOXIA is a professional, non-custodial trading platform built for serious traders. Trade perpetual futures on a transparent orderbook with institutional-grade performance.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Leaderboard,Trading,Portfolio,Markets,Rewards",
+  "VITE_ENABLED_MENUS": "Leaderboard,Trading,Portfolio,Markets,Rewards,Campaigns",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
