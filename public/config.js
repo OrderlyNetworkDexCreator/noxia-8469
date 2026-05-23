@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "NOXIA",
   "VITE_SEO_SITE_DESCRIPTION": "NOXIA is a professional, non-custodial trading platform built for serious traders. Trade perpetual futures on a transparent orderbook with institutional-grade performance.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/noxia-8469/",
+  "VITE_SEO_SITE_URL": "https://dex.noxia.exchange",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
